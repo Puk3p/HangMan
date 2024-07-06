@@ -40,6 +40,10 @@ Welcome to the Hangman Game project! This Windows Forms application offers a fun
 - This project is a simple implementation of the classic hangman game using C# and Windows Forms.
 - Designed to provide a fun and engaging way to enhance vocabulary and spelling skills.
 
+## Game Preview
+
+![Hangman Game Preview](https://i.imgur.com/hCVH4B0.gif)
+
 ## Contribution
 
 Contributions are welcome! If you have suggestions for improving the game, feel free to fork the repository and submit a pull request with your enhancements. Whether it's adding new word categories, improving the UI, or optimizing the backend logic, your input is valuable.
