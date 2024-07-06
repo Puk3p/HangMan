@@ -42,7 +42,7 @@ Welcome to the Hangman Game project! This Windows Forms application offers a fun
 
 ## Game Preview
 
-[View Hangman Game Preview](./HangMan/Spanzuratoarea/LVj8kSv%20-%20Imgur.mp4)
+[View Hangman Game Preview](./Spanzuratoarea/LVj8kSv%20-%20Imgur.mp4)
 
 
 ## Contribution
